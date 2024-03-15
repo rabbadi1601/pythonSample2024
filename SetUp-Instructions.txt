@@ -1,0 +1,21 @@
+﻿1- Install Strawberry Perl:
+
+   - Double-click strawberry-perl-5.10.1.0. msi to run the installation.
+
+   - Follow the on-screen instructions to install in the default folder.
+
+Note: Installing Strawberry Perl modifies the system’s PATH environment variable, and adds the Strawberry Perl folder, for example, C:\strawberry\perl\bin. This is required for Web Tours to operate properly.
+
+2- Install Web Tours: Unzip the contents of the WebTours. zip to a folder on the machine, for example to C:\WebTours. 
+
+
+3- Start Web Tours:
+Access the folder where you have unzipped WebTours. zip, for example C:\WebTours.
+
+Run StartServer. bat.
+
+A standard command line window opens, indicating that the server is running. Keep this window open while you access the Web Tours application.
+
+4- Access through Browser :
+	Go to address bar and type this url:
+	http://localhost:1080/WebTours/  or http://127.0.0.1:1080/WebTours
